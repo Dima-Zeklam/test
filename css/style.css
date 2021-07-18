@@ -1,0 +1,18 @@
+table, tr, th,td {
+    border: 2px red solid;
+    padding: 30px;
+
+}
+table{
+    position: relative;
+    left: 13%;
+    top: 100px;
+}
+form {
+    border: 3px black solid;
+    position: relative;
+    width:80%;
+    left:5%;
+    top:50px;
+    padding: 30px;
+}
